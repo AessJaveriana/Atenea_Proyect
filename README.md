@@ -94,7 +94,7 @@ We would like to thank all the team members and collaborators who have contribut
       Santiago Castro Zuluaga
     </td>
     <td width="50%" align="center">
-      <img src="Graphic_Resources/Member_Photos/Carolhina.png" alt="Carolina Real Vega" width="150"><br>
+      <img src="Graphic_Resources/Member_Photos/Carolhina.png" alt="Carolhina Real Vega" width="150"><br>
       Carolina Real Vega
     </td>
   </tr>
